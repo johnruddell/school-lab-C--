@@ -1,4 +1,4 @@
-# school-lab-C--
+# school-lab-C++
 
 This is a school lab I did for creating a math tree in C++. Linked List of nodes that form a binary tree.
 It uses custom build classes for handling strings, any variable, operators, pointers and tokens
